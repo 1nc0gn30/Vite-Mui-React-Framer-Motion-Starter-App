@@ -140,6 +140,6 @@ MIT — Free to use and customize.
 ✨ Author
 
 Made by Neal Frazier
-Twitter/X: [@nealfraziertech](hhtps://x.com/nealfraziertech)
+Twitter/X: [@nealfraziertech](https://x.com/nealfraziertech)
 GitHub: [@1nc0gn30](https://github.com/1nc0gn30)
 [Homebase](https://www.nealfrazier.tech)
