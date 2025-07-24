@@ -11,7 +11,7 @@ const Hero = () => (
         A blazing-fast frontend built with Vite and React.
       </Typography>
       <Button
-        href="https://github.com/1nc0gn30/vite-starter"
+        href="https://github.com/1nc0gn30/Vite-Mui-React-Framer-Motion-Starter-App"
         variant="contained"
         size="large"
         sx={{ mt: 3 }}
