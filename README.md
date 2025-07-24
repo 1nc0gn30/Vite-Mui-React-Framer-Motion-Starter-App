@@ -35,19 +35,19 @@ This template is designed for both beginners and advanced devs who want to:
 
 ## 📁 Project Structure
 
-vite-starter/
-├── public/ # Static assets
-├── src/
-│ ├── assets/ # Images, SVGs, icons
-│ ├── components/ # Reusable React components
-│ │ ├── Features.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Footer.jsx
-│ ├── App.jsx # App entry
-│ ├── main.jsx # React + Theme bootstrap
-├── index.html
-├── package.json
-├── vite.config.js
+### vite-starter/
+### ├── public/ # Static assets
+### ├── src/
+### │ ├── assets/ # Images, SVGs, icons
+### │ ├── components/ # Reusable React components
+### │ │ ├── Features.jsx
+### │ │ ├── Hero.jsx
+### │ │ ├── Footer.jsx
+### │ ├── App.jsx # App entry
+### │ ├── main.jsx # React + Theme bootstrap
+### ├── index.html
+### ├── package.json
+### ├── vite.config.js
 
 
 ---
@@ -140,6 +140,6 @@ MIT — Free to use and customize.
 ✨ Author
 
 Made by Neal Frazier
-Twitter/X: @inc0gn30
+Twitter/X: @nealfraziertech
 GitHub: @1nc0gn30
 [Homebase](https://www.nealfrazier.tech)
